@@ -1,0 +1,26 @@
+body {
+    font-family:'arial';
+    color:beige;
+    text-align: justify;
+    background-color: rgb(133, 133, 132);
+}
+p {
+    font-family: 'Calibri';
+    color:blue;
+    text-align: justify;
+}
+p2 {
+    font-family: 'Calibri';
+    color:blue;
+    text-align: center;
+}
+p3 {
+    font-family: 'Calibri';
+    color:blue;
+    text-align: center;
+}
+table, th, td{
+    color: blue;
+    text-align: justify;
+    border: 1px solid beige;
+}
